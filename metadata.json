@@ -1,0 +1,6 @@
+{
+  "name": "Disclose - Modular Server & Channel Hub",
+  "description": "A high-performance modular communication hub featuring real-time messaging, server management, Gemini-powered AI channel directors, fully customizable repositionable UI, and zero-emoji discipline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
